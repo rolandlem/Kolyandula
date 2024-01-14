@@ -127,6 +127,14 @@
           "https://sun9-36.userapi.com/impg/sxDPCq2czBTDShfR7JcMtXA3UtwWqX2GLkygQA/2_jRzFMvz6M.jpg?size=1280x720&quality=95&sign=66163e3360e9edb42d0bc60dea38eb3c&type=album"
         ]
       }
+    },
+    "3": {
+      "title": "Третья глава",
+      "volume": "",
+      "last_updated": "1705250930",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Hfq9Ngt"
+      }
     }
   }
 }
